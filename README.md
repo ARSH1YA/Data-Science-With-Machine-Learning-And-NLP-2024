@@ -12,8 +12,3 @@ Essential MLOps tools like CI/CD pipelines, GitHub Actions, MLflow, BentoML, and
 
 But this course is not just about theory; it's about hands-on, practical experience with end-to-end projects that will prepare you for real-world applications. Whether you're a beginner or looking to sharpen your skills, there's something valuable for everyone.
 
-
-
-Please find the course link below
-https://bit.ly/3V0S0jS
-
